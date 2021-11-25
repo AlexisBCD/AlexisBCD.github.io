@@ -12,6 +12,9 @@ intended for the portability of the schedule of the Université Polytechnique de
   <img src="https://github.com/AlexisBCD/AlexisBCD.github.io/blob/main/UPHFAgenda/images/mockup/image5.png?raw=true" height="15%" width="15%">
 </p>
 
+## Contact
+- Email: <a href="alexisuphf@gmail.com">alexisuphf@gmail.com</a>
+
 ## Terms of Use
 * Main page illustration:  
       This illustration named "Online learning concept Illustration" is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. It is attributed to Delesign Graphics and comes from <a rel="Link to Iconscout" href="https://iconscout.com/illustration/online-learning-concept-2043016">Iconscout</a>  
