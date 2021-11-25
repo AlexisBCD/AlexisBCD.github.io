@@ -13,5 +13,7 @@ intended for the portability of the schedule of the Université Polytechnique de
 </p>
 
 ## Terms of Use
-Illustration of the main page:
-  This illustration named "Online learning concept Illustration" is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. It is attributed to Delesign Graphics and comes from <a rel="Link to Iconscout" href="https://iconscout.com/illustration/online-learning-concept-2043016">Iconscout</a>
+* Main page illustration:  
+  This illustration named "Online learning concept Illustration" is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. It is attributed to Delesign Graphics and comes from <a rel="Link to Iconscout" href="https://iconscout.com/illustration/online-learning-concept-2043016">Iconscout</a>  
+* Apple Store Presentation Template:  
+  This illustration named "App Store Screenshots - 3 Tilted iPhones" is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. It is attributed to Previewed and comes from <a rel="Link to previewed.app" href="https://previewed.app/template/76BE872C">previewed.app</a>
