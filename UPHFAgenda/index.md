@@ -12,6 +12,10 @@ intended for the portability of the schedule of the Université Polytechnique de
   <img src="https://github.com/AlexisBCD/AlexisBCD.github.io/blob/main/UPHFAgenda/images/mockup/image5.png?raw=true" height="15%" width="15%">
 </p>
 
+## Link
+
+- Apple Store: https://apps.apple.com/fr/app/uphf-agenda/id1597292173
+
 ## Contact
 - Email: <a href="alexisuphf@gmail.com">alexisuphf@gmail.com</a>
 
